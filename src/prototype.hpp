@@ -31,7 +31,7 @@ void trim_ws_end(std::string &command);
  *
  * @param command string to remove whitespace from
  */
-void trm_ws(std::string &command);
+void trim_ws(std::string &command);
 /**
  * @brief check if the command string contains only whitespace
  *
